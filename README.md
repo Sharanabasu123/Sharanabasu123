@@ -143,4 +143,57 @@ Java                   ████████░░░░░ 75%
 - 📊 Become a better Data Analyst
 
 ---
+🏆 GitHub Trophies
 
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Sharanabasu123&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15&no-frame=true"/>
+</p>---
+
+🌱 Currently Learning
+
+- 🚀 Full Stack Development
+- 🐍 Advanced Python
+- 🤖 Machine Learning
+- 📊 Data Analytics
+- ☁️ Cloud Computing
+- 🏗️ System Design
+
+---
+
+📜 Certifications & Learning
+
+- 🎓 B.E. Computer Science & Engineering (VTU)
+- 📘 Python Programming
+- 📊 Power BI & Data Analytics
+- 🌐 Web Development
+- 🤖 Artificial Intelligence Fundamentals
+
+---
+
+🎯 Career Objective
+
+«Passionate Computer Science student with a strong interest in Full Stack Development, Artificial Intelligence, and Data Analytics. I enjoy building real-world applications that solve practical problems and continuously improving my technical skills through hands-on projects and learning.»
+
+---
+
+📬 Contact Me
+
+<p align="center"><a href="mailto:sharanabasupolicepatil2005@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a><a href="https://www.linkedin.com/in/sharanabasu-police-patil">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a><a href="https://github.com/Sharanabasu123">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a></p>---
+
+💡 Quote
+
+<p align="center">«"Code. Learn. Build. Inspire. Every line of code is a step toward innovation." 🚀»
+
+</p>---
+
+❤️ Thanks for Visiting
+
+<p align="center">⭐ If you like my work, don't forget to ⭐ my repositories and follow me!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4FF,100:6C63FF&height=120&section=footer"/></p>
