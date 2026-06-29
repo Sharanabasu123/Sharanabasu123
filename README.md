@@ -50,7 +50,16 @@
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 </p>---
+## 🐍 Contribution Snake
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sharanabasu123/Sharanabasu123/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="YOUR_DARK_IMAGE">
+  <source media="(prefers-color-scheme: light)" srcset="YOUR_LIGHT_IMAGE">
+  <img alt="Banner" src="YOUR_DARK_IMAGE">
+</picture>
 🌐 Connect With Me
 
 <p align="center"><a href="https://github.com/Sharanabasu123">
