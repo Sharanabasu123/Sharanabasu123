@@ -90,8 +90,8 @@ https://github-profile-trophy.vercel.app/?username=Sharanabasu123&theme=tokyonig
 📫 Connect With Me
 
 - GitHub: https://github.com/Sharanabasu123
-- LinkedIn: (Add your LinkedIn profile here)
-- Email: (Add your email here)
+- LinkedIn: https://www.linkedin.com/in/sharanabasu-police-patil
+- Email: sharanabasupolicepatil2005@gmail.com
 
 ---
 
