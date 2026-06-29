@@ -60,3 +60,87 @@
 </a><a href="mailto:sharanabasupolicepatil2005@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a></p>---
+
+🚀 Featured Projects
+
+📚 StudyNova
+
+«A modern student learning platform built to simplify academic life.»
+
+✨ Features
+
+- 📖 Notes Library
+- 🎓 VTU Updates
+- 👨‍💼 Admin Dashboard
+- 💬 Support System
+- 💳 Payment Management
+- 🔍 Search & Filters
+
+---
+
+💊 MediAlert
+
+Medication Reminder System with:
+
+- ⏰ Smart reminders
+- 👨‍👩‍👧 Caregiver notifications
+- 📊 Medicine tracking
+- 📅 Schedule management
+
+---
+
+🏦 Banking Database Management System
+
+A SQL & MySQL based database project implementing:
+
+- Customer Management
+- Account Management
+- Transactions
+- Reports
+
+---
+
+🤖 AI Object Detection
+
+Python-based object detection using Artificial Intelligence and Computer Vision.
+
+---
+
+📊 GitHub Statistics
+
+<p align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=Sharanabasu123&show_icons=true&theme=tokyonight&hide_border=true"/><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharanabasu123&layout=compact&theme=tokyonight&hide_border=true"/></p>---
+
+🔥 GitHub Streak
+
+<p align="center"><img src="https://streak-stats.demolab.com?user=Sharanabasu123&theme=tokyonight&hide_border=true"/></p>---
+
+📈 Contribution Graph
+
+<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Sharanabasu123&theme=tokyo-night"/></p>---
+
+💻 Coding Focus
+
+Full Stack Development  ███████████░░ 90%
+
+Python                 ██████████░░░ 85%
+
+Data Analytics         █████████░░░░ 80%
+
+Machine Learning       ███████░░░░░░ 70%
+
+Java                   ████████░░░░░ 75%
+
+---
+
+🎯 2026 Goals
+
+- ✅ Build StudyNova into a complete platform
+- 🚀 Contribute to Open Source
+- 💼 Secure a Software Development Internship
+- 📚 Master Full Stack Development
+- 🤖 Improve AI & Machine Learning skills
+- ☁️ Learn Cloud Computing
+- 📊 Become a better Data Analyst
+
+---
+
